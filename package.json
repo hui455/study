@@ -1,0 +1,26 @@
+{
+  "name": "test-vue1",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@kangc/v-md-editor": "^2.3.18",
+    "normalize.css": "^8.0.1",
+    "prettier": "^3.2.5",
+    "prismjs": "^1.29.0",
+    "spark-md5": "^3.0.2",
+    "vue": "^3.4.21",
+    "vue-prism-editor": "^2.0.0-alpha.2",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0",
+    "vite-plugin-prismjs": "^0.0.11"
+  }
+}

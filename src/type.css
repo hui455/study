@@ -1,0 +1,27 @@
+button{
+  border: 1px solid #409fff;
+  border-radius: 5px 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #409fff;
+  color:#fff;
+ }
+ button:hover{
+  background: #fff;
+  color: #409fff;
+  border: 1px solid #409fff;
+ }
+
+
+ a{
+  text-decoration: none;
+  cursor: pointer;
+  color: #409fff;
+ }
+
+ a:hover,a:active,a:focus{
+  opacity: 0.5;
+ }
